@@ -5,3 +5,5 @@ r = requests.get(
 )
 print(r.status_code)
 print(r.ok)
+
+print("All okay")
